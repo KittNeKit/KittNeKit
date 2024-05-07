@@ -20,3 +20,12 @@ All my projects are pinned, so you can go to each one and learn more about it
 - SQLalchemy
 - FastAPI, Aiohttp
 - Telegram API, Aiogram
+
+
+### Badges<b>My GitHub Stats</b>
+<a href="http://www.github.com/KittNeKit">
+  <img src="https://github-readme-stats.vercel.app/api?username=KittNeKit&show_icons=true&hide=&count_private=true&title_color=6e5494&text_color=bfbfbf&icon_color=6e5494&bg_color=1c1917&hide_border=true&show_icons=true" alt="KittNeKit's GitHub stats" />
+</a>
+<a href="http://www.github.com/KittNeKit">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KittNeKit&stroke=bfbfbf&background=1c1917&ring=6e5494&fire=6e5494&currStreakNum=bfbfbf&currStreakLabel=6e5494&sideNums=bfbfbf&sideLabels=bfbfbf&dates=bfbfbf&hide_border=true" />
+</a>
